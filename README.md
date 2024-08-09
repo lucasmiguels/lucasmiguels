@@ -28,11 +28,14 @@ Hello! My name is **Lucas Miguel**, I am a Computer Engineering student at **UFR
 
 ## Projects
 
-### Graph-Library-Project
-A comprehensive implementation of a graph library in Python, designed to handle various types of graphs and provide a suite of algorithms for graph analysis and operations.
+### [Time Series Forecasting Project](https://github.com/lucasmiguels/Time-Series-Forecasting)
+A project containing the code and analysis used in the Kaggle competition 'Store Sales - Time Series Forecasting,' focusing on predicting store sales using time series forecasting techniques.
 
-### Statistics and Data Analysis Project
+### [Data Analysis and Statistics Project](https://github.com/lucasmiguels/Data-Analysis-and-Statistics)
 A project focusing on statistical analysis and data exploration using Python, covering various statistical methods and visualization techniques.
+
+### [Graph Library Project](https://github.com/lucasmiguels/Graph-Library-Project)
+A comprehensive implementation of a graph library in Python, designed to handle various types of graphs and provide a suite of algorithms for graph analysis and operations.
 
 ## Contact
 
