@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is **Lucas Miguel**, I am a Computer Engineering student at **UFRJ**. I am passionate about data science, and I am a member of the **UFRJ Analytica** data science team.
+Hello! My name is **Lucas Miguel**, I am a Data Engineer and Computer Engineering student at **UFRJ**. I am passionate about data science, and I am a member of the **UFRJ Analytica** data science team.
 
 ## Skills
 
@@ -27,6 +27,9 @@ Hello! My name is **Lucas Miguel**, I am a Computer Engineering student at **UFR
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Projects
+
+### [LangGraph text-to-SQL AI Agent](https://github.com/lucasmiguels/LangGraph-ai-agent)
+Bachelor's Thesis: Advanced Text-to-SQL Agent built with LangGraph, Chainlit, and OpenAI to analyze Rio de Janeiro's 1746 public dataset (BigQuery). Implements conditional routing, vector-based RAG (ChromaDB) for categorical context, and deterministic SQL validation for secure BigQuery interaction.
 
 ### [Time Series Forecasting Project](https://github.com/lucasmiguels/Time-Series-Forecasting)
 A project containing the code and analysis used in the Kaggle competition 'Store Sales - Time Series Forecasting,' focusing on predicting store sales using time series forecasting techniques.
