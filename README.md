@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is **Lucas Miguel**, I am a Data Engineer and Computer Engineering student at **UFRJ**. I am passionate about data science, and I am a member of the **UFRJ Analytica** data science team.
+Hello! I am **Lucas Miguel**, an **AI Engineer** and **UFRJ Computer Engineer** passionate about LLMs, data science, and backend engineering, dedicated to building production-ready GenAI systems.
 
 ## Skills
 
